@@ -4,7 +4,7 @@ email: ahmetamasyali@hotmail.com
 description: Ahmet Amasyali's Personal Blog
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://ahmetamasyali.github.io" # the base hostname & protocol for your site
-github_username:  ahmet amasyali
+github_username:  ahmetamasyali
 paginate: 5
 theme-dark: false #Set to true to change to dark website theme
 
