@@ -2,7 +2,7 @@
 title: Ahmet Amasyalı
 email: ahmetamasyali@hotmail.com
 description: Ahmet Amasyali's Personal Blog
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "https://ahmetamasyali.github.io" # the base hostname & protocol for your site
 github_username:  ahmetamasyali
 paginate: 5
