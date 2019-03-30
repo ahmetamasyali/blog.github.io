@@ -7,7 +7,6 @@ author: "Ahmet Amasyali"
 ---
 My dating app demo is live. 
 <br/>
-[Google](http://www.google.com)
 [http://izycrush.com](http://izycrush.com)
 
 For now it is simple chat app. I used Java, AngularJS, Spring, Mongodb, Web Sockets and deployed to google cloud.
