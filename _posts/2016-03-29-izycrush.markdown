@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Izycrush"
+date:   2019-03-30 14:00:31
+categories: ["programming"]
+author: "Ahmet Amasyali"
+---
+My dating app demo is live. 
+
+http://izycrush.com
+
+For now it is simple chat app. I used Java, AngularJS, Spring, Mongodb, Web Sockets and deployed to google cloud.
+I will make improvements in time in it will become a dating app.

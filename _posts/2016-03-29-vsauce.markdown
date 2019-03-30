@@ -1,15 +1,13 @@
 ---
 layout: post
-title:  "Youtube Kanalı : Vsauce"
+title:  "Youtube Channel : Vsauce"
 date:   2019-03-29 19:45:31 +0530
 categories: ["youtube"]
 author: "Ahmet Amasyali"
 ---
-Bilim, Teknoloji, Psikoloji, Felsefe ve başka pek çok konu üzerine videolar yayınlayan bi youtube kanalı.
+A youtube channel about Science, Psychology, Philosophy, Life and many other things.
+One of my favourite videos
 
-Mesela aşağıdaki videoda herhangi bir şeyin gerçekliği ve bilinebilirliği üzerine 12 dakika boyunca konuşuyor. 
+{% include youtubePlayer.html id="L45Q1_psDqk" %}
 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L45Q1_psDqk" frameborder="0" allowfullscreen></iframe>
-
-Puan : 9.6/10
+Score : 9.6/10

@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Film : The Highwayman"
+title:  "Movie : The Highwayman"
 date:   2019-03-29 19:45:31 +0530
 categories: ["movies"]
 author: "Ahmet Amasyali"
 ---
-Ünlü Amerikan kanun kaçakları Bonnie ve Clyde'ın peşindeki 2 emekli Texas korucusunun hikayesi.
-Kevin Costner ve Woody Harrelson'ın hatırına izledim. Pek beğenmedim. 
+Story of two texas rangers in pursuit of notorious American gangster couple Bonnie and Clyde.
+I watched it because Kevin Costner and Woody Harrelson are lead roles.  Didn't liked it. 
 
-Puan : 5.5/10
+Score : 5.5/10
