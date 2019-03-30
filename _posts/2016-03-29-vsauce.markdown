@@ -10,5 +10,5 @@ Bilim, Teknoloji, Psikoloji, Felsefe ve başka pek çok konu üzerine videolar y
 Mesela aşağıdaki videoda herhangi bir şeyin gerçekliği üzerine 12 dakika boyunca konuşuyor. 
 
 {% include youtubePlayer.html id="L45Q1_psDqk" %}
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L45Q1_psDqk" frameborder="0" allowfullscreen></iframe>
 Puan : 9.6/10
