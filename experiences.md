@@ -4,25 +4,24 @@ title: CV
 permalink: /experiences/
 category: "cv"
 ---
-Ahmet Amasyalı
-Istanbul / Turkey 
-ahmetamasyali@hotmail.com 
+Ahmet Amasyalı<br />
+Istanbul / Turkey <br />
+ahmetamasyali@hotmail.com <br />
 <a href="https://github.com/ahmetamasyali" class="external" target="_blank">https://github.com/ahmetamasyali</a>
 
 <br /><br />
-<center>***Fullstack Developer***</center>
+***<center>Fullstack Developer</center>***
 <br /><br />
-<center>xxxx</center>
 
 ***Technical Skills***
 
--   ***Java, Javascript***
+-   Java, Javascript
 
--   ***Spring, Hibernate, Spring Boot, Spring MVC, RESTful Services, JSF***
+-   Spring, Hibernate, Spring Boot, Spring MVC, RESTful Services, JSF
 
--   ***Mysql, PostgreSQL, Mongo***
+-   Mysql, PostgreSQL, Mongo
 
--   ***AngularJS, Jquery***
+-   AngularJS, Jquery
 
 <br /><br />
 ***Professional Experiences***
