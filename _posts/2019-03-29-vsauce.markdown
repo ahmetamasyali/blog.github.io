@@ -6,7 +6,8 @@ categories: ["youtube"]
 author: "Ahmet Amasyali"
 ---
 A youtube channel about Science, Psychology, Philosophy, Life and many other things.
-One of my favourite videos
+<br /><br />
+One of my favourite videos:
 
 {% include youtubePlayer.html id="L45Q1_psDqk" %}
 
