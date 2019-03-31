@@ -10,4 +10,3 @@ One of my favourite videos
 
 {% include youtubePlayer.html id="L45Q1_psDqk" %}
 
-Score : 9.6/10

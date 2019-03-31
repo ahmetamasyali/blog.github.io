@@ -8,3 +8,4 @@ permalink: /about/
 <p>A software developer based on Istanbul Turkey<br>
 Currently works at Sahibinden.com</p>
 
+<p>Also Trains Brazilian Jiu Jitsu. Currently holds a Blue Belt under Professor Gokcehan Kirbac</p>
