@@ -5,21 +5,19 @@ permalink: /experiences/
 category: "cv"
 ---
 Ahmet Amasyalı<br />
+Fullstack Web Developer<br />
 Istanbul / Turkey <br />
 ahmetamasyali@hotmail.com <br />
 <a href="https://github.com/ahmetamasyali" class="external" target="_blank">https://github.com/ahmetamasyali</a>
 
 <br /><br />
-***<center>Fullstack Developer</center>***
-<br /><br />
-
 ***Technical Skills***
 
--   Java, Javascript
+-   Java, Javascript 
 
 -   Spring, Hibernate, Spring Boot, Spring MVC, RESTful Services, JSF
 
--   Mysql, PostgreSQL, Mongo
+-   Mysql, PostgreSQL, MongoDB
 
 -   AngularJS, Jquery
 
