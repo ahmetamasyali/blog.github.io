@@ -7,6 +7,8 @@ author: "Ahmet Amasyali"
 ---
 Love Death + Robots
 
-It is collection of short films. Some episodes are realy good. My favourite is 7th episode (Beyond the Aquila Rift)
+It is collection of short films. Some episodes are really good. My favourite is 7th episode (Beyond the Aquila Rift)
+
+Score : 9.3/10
 
 {% include youtubePlayer.html id="wUFwunMKa4E" %}
