@@ -9,5 +9,5 @@ My dating app demo is live.
 <br/>
 <a href="http://izycrush.com" class="external" target="_blank">http://izycrush.com</a>
 <br/>
-For now it is simple chat app. I used Java, AngularJS, Spring, Mongodb, Web Sockets and deployed to google cloud.
+For now it is a simple chat app. I have used Java, AngularJS, Spring, Mongodb, Web Sockets and deployed to google cloud.
 I will make improvements in time in it will become a dating app.
