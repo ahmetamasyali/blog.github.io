@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Earthsea  - Ursula K. Le Guin"
+title:  "Love Death + Robots"
 date:   2019-03-29 19:45:31 +0530
 categories: ["movies"]
 author: "Ahmet Amasyali"
