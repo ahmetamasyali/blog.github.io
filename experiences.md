@@ -5,12 +5,14 @@ permalink: /experiences/
 category: "cv"
 ---
 Ahmet Amasyalı
-Istanbul / Turkey | ahmetamasyali@hotmail.com 
-https://github.com/ahmetamasyali
+Istanbul / Turkey 
+ahmetamasyali@hotmail.com 
+<a href="https://github.com/ahmetamasyali" class="external" target="_blank">https://github.com/ahmetamasyali</a>
 
-***https://github.com/ahmetamasyali***
-
-***Fullstack Developer***
+<br /><br />
+<center>***Fullstack Developer***</center>
+<br /><br />
+<center>xxxx</center>
 
 ***Technical Skills***
 
@@ -32,7 +34,7 @@ Turkey***
 
 -   *Owning of full development life cycle. Design, Analysis, Development, Testing*
 
--   *Participated in developing and improving in corporate modules and admin pages. *
+-   *Participated in developing and improving in corporate modules and admin pages.*
 
 -   *Using technologies Java, Javascript, Spring, Hibernate, Mysql,
     AngularJS, MongoDB, Primefaces, JSP, Junit, Selenium*
@@ -61,6 +63,7 @@ Solutions, Istanbul / Turkey***
 -   Using technologies Java, Javascript, Spring, Hibernate, PostgreSQL,
     AngularJS, Restful Services, Spring MVC
 
+<br /><br />
 ***Education***
 
 -   *Yildiz Technical University Computer Engineering GPA: 2.94*
@@ -68,6 +71,7 @@ Solutions, Istanbul / Turkey***
 -   *First Place in Graduation Projects Competition in Computer
     Engineering*
 
+<br /><br />
 ***Hobbies & Rewards & Languages***
 
 -   *Brazilian Jiu Jitsu Blue Belt under Gokcehan Kirbac*
