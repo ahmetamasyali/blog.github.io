@@ -9,3 +9,9 @@ permalink: /about/
 At the moment works at Sahibinden.com</p>
 
 <p>Also Trains Brazilian Jiu Jitsu. Currently holds a Blue Belt under Professor Gokcehan Kirbac</p>
+
+<p>He also competes once in a while. Here are the videos how they kicked his ass in last competition</p>
+
+{% include youtubePlayer.html id="0GWktPbgghI" %}
+
+{% include youtubePlayer.html id="AlKGyKHkdfE" %}
